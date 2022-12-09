@@ -12,32 +12,32 @@ SwiftUI Essentials
 
 Learn how to use SwiftUI to compose rich views out of simple ones, set up data flow, and build the navigation while watching it unfold in Xcode’s preview.
 
-  - Swift UI essential
-  - creating and combining the view
-  - building the list and navigation 
-  - handling the user input 
+  - [x] Swift UI essential
+  - [x] creating and combining the view
+  - [x] building the list and navigation 
+  - [ ] handling the user input 
 
  Chapter 2 :
  Drawing and Animation
 
 Discover how to draw shapes and paths to create a badge that you’ll animate, while also creating seamless transitions between views.
-- Drawing the path and shape
-- Animation View and Transistion 
+- [ ] Drawing the path and shape
+- [ ] Animation View and Transistion 
 
 Chapter 3 : 
 
 App Design and Layout
 
 Explore the structure and layout of more complex interfaces built with SwiftUI.
- - Composing the complex interfaces
- - Working with UI Controls
+ - [ ] Composing the complex interfaces
+ - [ ] Working with UI Controls
 
 Chapter 4 : 
 
 FrameWork Integration 
 
 Use SwiftUI views together with the views and view controllers from platform-specific UI frameworks.
- - Interface with UIKit 
- - Creating a watch OS App 
- - Creating a Mac OS App
+ - [ ] Interface with UIKit 
+ - [ ] Creating a watch OS App 
+ - [ ]  Creating a Mac OS App
   
